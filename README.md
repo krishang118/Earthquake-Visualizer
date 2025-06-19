@@ -13,8 +13,6 @@ A system for fetching, visualizing, and analyzing real-time global earthquake da
 - Visualizations:
   - Interactive world map of earthquake locations and magnitudes
   - Analytical dashboard: histograms, scatter plots, timelines, and pie charts
-- Regional Analysis: Focus on specific geographic regions.
-- Export: Save analyzed data to CSV for further use.
 
 ## Technologies Used
 - Plotly (for interactive maps and charts)
