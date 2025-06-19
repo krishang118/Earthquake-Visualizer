@@ -56,8 +56,10 @@ A system for fetching, visualizing, and analyzing global earthquake data using r
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Credits
-Developed by [Your Name].
+## Contributing
 
----
-*Feel free to contribute or suggest improvements!* 
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License.  
