@@ -16,11 +16,11 @@ A system for fetching, visualizing, and analyzing real-time global earthquake da
 
 ## Technologies Used
 - Plotly (for interactive maps and charts)
-- Pandas (data processing)
+- Pandas (for data processing)
 - ipywidgets (for interactivity)
 - [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/)
 
-## Setup Instructions
+## How to Run
 1. Clone this repository on your local machine.
 2. Open the `Earthquake Visualizer.ipynb` Jupyter Notebook and run the first cell to install the required dependencies.
 3. Run the second cell and set the required ranges to see the desired visualizations.
