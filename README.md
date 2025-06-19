@@ -1,6 +1,6 @@
-# Earthquake Data Visualization & Analysis
+# Earthquake Visualizer
 
-An interactive Jupyter Notebook for fetching, visualizing, and analyzing global earthquake data using real-time information from the USGS Earthquake API.
+A system for fetching, visualizing, and analyzing global earthquake data using real-time information using the USGS Earthquake API.
 
 ## Features
 - **Fetch Real-Time Data:** Retrieve earthquake data for any date and magnitude range from the USGS API.
