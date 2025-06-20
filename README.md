@@ -18,7 +18,7 @@ A system for fetching, visualizing, and analyzing real-time global earthquake da
 - Plotly (for interactive maps and charts)
 - Pandas (for data processing)
 - ipywidgets (for interactivity)
-- [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/)
+- [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/) (No API Key Required)
 
 ## How to Run
 1. Clone this repository on your local machine.
